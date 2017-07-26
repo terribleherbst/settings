@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.jsa</mask>
       <mask>*.jav</mask>
@@ -18,8 +18,6 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.m</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -29,7 +27,6 @@
       <mask>*.properti</mask>
       <mask>*.java</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -39,6 +36,9 @@
       <mask>*.properties</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
