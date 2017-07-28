@@ -8,7 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.jsa</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.g</mask>
@@ -24,7 +23,6 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.properti</mask>
-      <mask>*.java</mask>
       <mask>*</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
@@ -38,6 +36,8 @@
       <mask>*.html</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
