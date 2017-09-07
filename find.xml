@@ -6,12 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.m</mask>
-      <mask>*.sq</mask>
-      <mask>*.properti</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
       <mask>*.prop</mask>
       <mask>*.proper</mask>
       <mask>*.propert</mask>
@@ -23,19 +17,25 @@
       <mask>*.ja</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.groovy</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sql</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.'ts</mask>
+      <mask>*.ts</mask>
+      <mask>*..ts</mask>
+      <mask>*.s.ts</mask>
+      <mask>*.spe.ts</mask>
+      <mask>*.spec.ts</mask>
     </recentFileMasks>
   </component>
 </application>
