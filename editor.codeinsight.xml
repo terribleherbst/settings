@@ -11,6 +11,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.tomcat.jni" />
     <EXCLUDED_PACKAGE NAME="org.crsh" />
     <EXCLUDED_PACKAGE NAME="org.joda" />
+    <EXCLUDED_PACKAGE NAME="sun.security" />
     <EXCLUDED_PACKAGE NAME="sun.tools" />
   </component>
   <component name="JavaCodeFoldingSettings">
