@@ -29,13 +29,13 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*</mask>
+      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
+      <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
