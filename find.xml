@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.groov</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.java</mask>
       <mask>&amp;</mask>
@@ -29,13 +28,15 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>h</mask>
+      <mask>html</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
