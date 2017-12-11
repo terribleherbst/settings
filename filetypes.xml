@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gdal" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ldiff" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
