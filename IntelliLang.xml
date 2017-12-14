@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>MockRestResponseCreators.withSuccess (org.springframework.test.web.client.response)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("withSuccess").withParameters("java.lang.String", "org.springframework.http.MediaType").definedInClass("org.springframework.test.web.client.response.MockRestResponseCreators"))]]></place>
+    </injection>
+    <injection language="ThymeleafExpressions" injector-id="xml">
+      <display-name>p/@text</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withParent(xmlTag().withLocalName(string().equalTo("p")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>
