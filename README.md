@@ -1,7 +1,7 @@
 # Global Intellij Settings for Developing Cultivent Tools
 
 ## How to use
-** This will change your Keymap. Consider giving your Keymap a unique name before and changing your Keymap back after importing the settings. **
+**This will change your Keymap. Consider giving your Keymap a unique name before and changing your Keymap back after importing the settings.**
 
 * Open Intellij
 * go to File -> Settings Repository
