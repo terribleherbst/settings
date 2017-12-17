@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="tiff" type="Images" />
       <mapping ext="tiff" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="sass" type="SCSS" />
       <removed_mapping ext="sass" type="Sass" />
     </extensionMap>
