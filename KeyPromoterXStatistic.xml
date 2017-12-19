@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>364</Count>
+          <Count>367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Gradle</Description>
-          <Count>20</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -998,7 +998,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'beetseed [bootRun]'</Description>
-          <Count>283</Count>
+          <Count>284</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'beetseed [clean]'">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>387</Count>
+          <Count>388</Count>
         </Item>
       </Statistic>
     </option>
