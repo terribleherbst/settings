@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Gradle</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -303,6 +303,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'BankingService.should validate the iban'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'BeetSeedHealthCheckTest.Teste das Erkennen des korrekten Status'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'BeetSeedHealthCheckTest.Teste das Erkennen des korrekten Status'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'BeetseedComponent'">
