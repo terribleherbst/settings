@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Gradle</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'beetseed [bootRun]'</Description>
-          <Count>286</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'beetseed [clean]'">
