@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>376</Count>
+          <Count>380</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -486,6 +486,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DeliveryNoteService.should make an api call to get one delivery note'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DeliveryNoteUploadComponent.should display a list of DeliveryDocuments'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DeliveryNoteUploadComponent.should display a list of DeliveryDocuments'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1054,7 +1062,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'karma.conf.js'</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'timetrack [bootRun]'">
@@ -1118,7 +1126,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'karma.conf.js'</Description>
-          <Count>86</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'should throw an error on timeo...'">
@@ -1342,7 +1350,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>395</Count>
+          <Count>396</Count>
         </Item>
       </Statistic>
     </option>
