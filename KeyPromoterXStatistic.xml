@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Angular'">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'beetseed [bootRun]'</Description>
-          <Count>289</Count>
+          <Count>290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'beetseed [clean]'">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>293</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'beetseed [bootRun]'">
@@ -1350,7 +1350,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>401</Count>
+          <Count>402</Count>
         </Item>
       </Statistic>
     </option>
