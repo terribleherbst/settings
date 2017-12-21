@@ -1201,6 +1201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DeliveryNoteThumbnailComponent.should call the download method'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DeliveryNoteThumbnailComponent.should call the download method'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'EvaluationRepositoryTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
