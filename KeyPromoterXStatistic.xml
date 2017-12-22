@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>387</Count>
+          <Count>388</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Angular'">
@@ -230,6 +230,14 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'⇧⌘Z' or '⌥⇧⌫'</ShortCut>
           <Description>Redo Backspace</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Reload Page</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -430,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'CrmRepositoryTest'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DamageEventTest.Teste das Übersetzen von Schadensgründen'">
@@ -1038,7 +1046,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'beetseed [bootRun]'</Description>
-          <Count>292</Count>
+          <Count>293</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'beetseed [clean]'">
@@ -1358,7 +1366,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>405</Count>
+          <Count>406</Count>
         </Item>
       </Statistic>
     </option>
