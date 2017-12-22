@@ -1302,7 +1302,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'beetseed [bootRun]'</Description>
-          <Count>268</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'beetseed [test]'">
