@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>375</Count>
+          <Count>389</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>27</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Angular'">
@@ -70,7 +70,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'beetseed [bootRun]'</Description>
-          <Count>10</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'timetrack [bootRun]'">
@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>120</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -110,7 +110,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Gradle</Description>
-          <Count>29</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -190,7 +190,7 @@
           <IdeaActionID>OpenModuleSettings</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Module Settings</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -206,7 +206,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -230,6 +230,14 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'⇧⌘Z' or '⌥⇧⌫'</ShortCut>
           <Description>Redo Backspace</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Reload Page</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -425,6 +433,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CrmRepositoryTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CrmRepositoryTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DamageEventTest.Teste das Übersetzen von Schadensgründen'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -470,6 +486,30 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DebounceClickDirective.should debounce a click event'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DeliveryNoteService'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DeliveryNoteService'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DeliveryNoteService.should make an api call to get one delivery note'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DeliveryNoteService.should make an api call to get one delivery note'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DeliveryNoteUploadComponent.should display a list of DeliveryDocuments'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DeliveryNoteUploadComponent.should display a list of DeliveryDocuments'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -713,6 +753,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'MattermostNotificationHandlerTest.Test Send POST to Mattermost'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MattermostNotificationHandlerTest.Test Send POST to Mattermost'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PercentagePipe'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -846,7 +894,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Rerun Failed Tests'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SowInformationComponent'">
@@ -1006,7 +1054,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'beetseed [bootRun]'</Description>
-          <Count>286</Count>
+          <Count>293</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'beetseed [clean]'">
@@ -1030,7 +1078,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'beetseed [test]'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'karma.conf.js'">
@@ -1038,7 +1086,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'karma.conf.js'</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'timetrack [bootRun]'">
@@ -1070,7 +1118,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>72</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1078,7 +1126,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -1086,7 +1134,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>291</Count>
+          <Count>295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'beetseed [bootRun]'">
@@ -1102,7 +1150,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'karma.conf.js'</Description>
-          <Count>86</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'should throw an error on timeo...'">
@@ -1150,7 +1198,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Angular'">
@@ -1182,6 +1230,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'ConsultantServiceTest.Teste das Updaten eines bestehenden Consultants'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DeliveryNoteThumbnailComponent.should call the download method'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DeliveryNoteThumbnailComponent.should call the download method'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1246,7 +1302,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'beetseed [bootRun]'</Description>
-          <Count>262</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'beetseed [test]'">
@@ -1270,7 +1326,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'timetrack [bootRun]'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'tsmonitoring [test]'">
@@ -1302,7 +1358,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>57</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -1310,7 +1366,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>214</Count>
+          <Count>218</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1318,7 +1374,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>392</Count>
+          <Count>407</Count>
         </Item>
       </Statistic>
     </option>
