@@ -11,4 +11,7 @@
   <action id="Git.CreateNewBranch">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
 </keymap>
