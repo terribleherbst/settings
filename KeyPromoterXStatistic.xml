@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>408</Count>
+          <Count>409</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateGradleToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Gradle</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>222</Count>
+          <Count>224</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -1430,7 +1430,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>422</Count>
+          <Count>423</Count>
         </Item>
       </Statistic>
     </option>
