@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>420</Count>
+          <Count>423</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -582,6 +582,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FarmerServiceTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'FieldControllerTest.Test to register Fields with SowEvents with invalid Dates'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'FieldControllerTest.Test to register Fields with SowEvents with invalid Dates'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
