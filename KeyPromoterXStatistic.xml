@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>433</Count>
+          <Count>434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1233,6 +1233,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'develop'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'develop'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'karma.conf.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1246,6 +1254,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'should throw an error on timeo...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'⌃⌥R'</ShortCut>
+          <Description>Run...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1470,7 +1486,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>454</Count>
+          <Count>455</Count>
         </Item>
       </Statistic>
     </option>
