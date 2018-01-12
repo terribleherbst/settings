@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>434</Count>
+          <Count>438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1425,6 +1425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'develop'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'develop'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'karma.conf.js'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1486,7 +1494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>455</Count>
+          <Count>458</Count>
         </Item>
       </Statistic>
     </option>
