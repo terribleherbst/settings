@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>438</Count>
+          <Count>439</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>310</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'beetseed [bootRun]'">
@@ -1438,7 +1438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'develop'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'karma.conf.js'">
@@ -1502,7 +1502,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>459</Count>
+          <Count>460</Count>
         </Item>
       </Statistic>
     </option>
