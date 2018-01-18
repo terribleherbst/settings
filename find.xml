@@ -14,7 +14,6 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.sp</mask>
       <mask>*.spe</mask>
       <mask>*.spec</mask>
@@ -36,6 +35,7 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
