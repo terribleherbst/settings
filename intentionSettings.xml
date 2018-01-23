@@ -1,5 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Groovy/Expression conversions/Convert string literal to dollar-slashy string" />
-  </component>
-</application>
