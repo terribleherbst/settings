@@ -1,7 +1,7 @@
 <application>
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
-      <value version="173">
+      <value>
         <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
         <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
         <option name="IMPORT_LAYOUT_TABLE">
@@ -16,22 +16,6 @@
             <package name="javax" withSubpackages="true" static="false" />
           </value>
         </option>
-        <JavaCodeStyleSettings>
-          <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
-          <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="0" />
-          <option name="IMPORT_LAYOUT_TABLE">
-            <value>
-              <package name="" withSubpackages="true" static="true" />
-              <emptyLine />
-              <package name="de.xm" withSubpackages="true" static="false" />
-              <emptyLine />
-              <package name="" withSubpackages="true" static="false" />
-              <emptyLine />
-              <package name="java" withSubpackages="true" static="false" />
-              <package name="javax" withSubpackages="true" static="false" />
-            </value>
-          </option>
-        </JavaCodeStyleSettings>
         <XML>
           <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
         </XML>
