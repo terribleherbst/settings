@@ -5,19 +5,16 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.sq</mask>
       <mask>*.spect</mask>
       <mask>*.spec</mask>
       <mask>*.spe</mask>
-      <mask>*.s</mask>
       <mask>*.sp</mask>
       <mask>*.spec.ts</mask>
       <mask>s</mask>
       <mask>sq</mask>
       <mask>sql</mask>
-      <mask>*.sql</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>.</mask>
@@ -37,6 +34,9 @@
       <mask>*.javats</mask>
       <mask>*.javas</mask>
       <mask>*.java</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
