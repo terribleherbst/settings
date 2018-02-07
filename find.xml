@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.spec</mask>
       <mask>*.spe</mask>
@@ -31,9 +32,9 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.ts</mask>
       <mask>*spec.ts</mask>
       <mask>*.html</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
