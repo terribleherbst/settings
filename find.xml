@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.spe</mask>
       <mask>*.sp</mask>
@@ -26,7 +26,6 @@
       <mask>*.javts</mask>
       <mask>*.javats</mask>
       <mask>*.javas</mask>
-      <mask>*.java</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
@@ -35,6 +34,7 @@
       <mask>*.groovy</mask>
       <mask>*.js</mask>
       <mask>*.ts</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
