@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.spe</mask>
       <mask>*.sp</mask>
@@ -32,8 +33,8 @@
       <mask>*.js</mask>
       <mask>*.ts</mask>
       <mask>*.java</mask>
-      <mask>*.html</mask>
       <mask>*.groovy</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
