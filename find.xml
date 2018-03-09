@@ -31,9 +31,9 @@
       <mask>*spec.ts</mask>
       <mask>*.js</mask>
       <mask>*.ts</mask>
-      <mask>*.groovy</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
