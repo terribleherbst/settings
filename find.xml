@@ -31,9 +31,9 @@
       <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
-      <mask>*.groovy</mask>
       <mask>*.json</mask>
       <mask>*.ts</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
