@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.sp</mask>
       <mask>s</mask>
@@ -32,9 +32,9 @@
       <mask>*.json</mask>
       <mask>*.spec.ts</mask>
       <mask>*.java</mask>
-      <mask>*.ts</mask>
       <mask>*.html</mask>
       <mask>*.groovy</mask>
+      <mask>*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
