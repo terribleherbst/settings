@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>s</mask>
       <mask>sq</mask>
@@ -24,7 +25,6 @@
       <mask>*.javas</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*spec.ts</mask>
       <mask>*.js</mask>
       <mask>*.json</mask>
@@ -34,6 +34,7 @@
       <mask>*.groovy</mask>
       <mask>*.properties</mask>
       <mask>*.ts</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
