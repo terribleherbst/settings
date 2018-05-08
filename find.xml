@@ -4,15 +4,37 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.ts" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.ts</mask>
+    <recentFileMasks>
+      <mask>s</mask>
+      <mask>sq</mask>
+      <mask>sql</mask>
+      <mask>*.h</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.t</mask>
+      <mask>*.javts</mask>
+      <mask>*.javats</mask>
+      <mask>*.javas</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*spec.ts</mask>
+      <mask>*.js</mask>
+      <mask>*.json</mask>
+      <mask>*.spec.ts</mask>
+      <mask>*.java</mask>
+      <mask>*.html</mask>
+      <mask>*.groovy</mask>
+      <mask>*.properties</mask>
+      <mask>*.sql</mask>
+      <mask>*.ts</mask>
+    </recentFileMasks>
   </component>
 </application>
