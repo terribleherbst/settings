@@ -7,8 +7,9 @@
       <mapping pattern="gdal" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="extensionmodule" type="PLAIN_TEXT" />
       <mapping ext="kml" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="xtb" type="PLAIN_TEXT" />
       <mapping ext="ldiff" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
