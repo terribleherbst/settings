@@ -12,11 +12,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
-    <mask>*.sql</mask>
     <mask>*.html</mask>
     <mask>*.groovy</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
