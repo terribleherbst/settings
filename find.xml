@@ -16,7 +16,7 @@
     <mask>*.ts</mask>
     <mask>*.groovy</mask>
     <mask>*.spec.ts</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
