@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/kw/j1x0186x6zz_zgb8qk1tbpdm0000gn/T/AppTranslocation/79356084-B97F-4486-A63E-5DFFEC91A397/d/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/joe/.m2/repository" />
     <macro name="SPRING_PROFILES_ACTIVE" value="dev,local" />
   </component>
