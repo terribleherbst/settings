@@ -5,6 +5,16 @@
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/mapbox-gl" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.12.3" type="Scala">
       <properties>
         <compiler-classpath>
