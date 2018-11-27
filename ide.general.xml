@@ -10,5 +10,7 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="ide.tooltip.initialDelay" value="468" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="hbt" type="HTML" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
@@ -9,11 +10,11 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="V11_1__add_team-emplyee" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="extensionmodule" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="kmz" type="PLAIN_TEXT" />
       <mapping ext="kml" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="xtb" type="PLAIN_TEXT" />
       <mapping ext="ldiff" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
