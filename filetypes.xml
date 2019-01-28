@@ -9,6 +9,7 @@
       <mapping pattern="gdal" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="V11_1__add_team-emplyee" type="PLAIN_TEXT" />
+      <mapping ext="wkt" type="PLAIN_TEXT" />
       <mapping ext="geojson" type="PLAIN_TEXT" />
       <mapping ext="extensionmodule" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
